@@ -10,4 +10,4 @@ RUN pip install --upgrade pip; \
 
  
 
-ENTRYPOINT ["python3", "app/main.py"]
+ENTRYPOINT ["python3", "-u", "app/main.py"]
