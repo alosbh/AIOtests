@@ -6,8 +6,8 @@ from datetime import datetime
 # for line in host:
 #     print(line)
 # print('tentei')
-matricula = '51007445'
-hostname = 'brbelrasp103'
+matricula = '51007731'
+hostname = 'brbelrasp118'
 
 urlLogin = 'http://brbelm0itqa01/OJT/ojtws/Authentication/LoginByWorker'
 urlMetrics = 'http://brbelm0itqa01/AIOService_AIODashboard/Prodash/GetActualUserAttributes/'
